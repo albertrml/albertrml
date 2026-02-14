@@ -6,8 +6,6 @@ Atuo na interseção entre **engenharia de software e dados**, aplicando princí
 
 Minha abordagem é orientada a estrutura, escalabilidade e clareza técnica.
 
-![Snake animation](https://github.com/albertrml/albertrml/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 # <img width="40" height="40" alt="Atuação Técnica" src="https://github.com/user-attachments/assets/77d95714-af66-4446-9604-ae0c5f2defca"/> Atuação Técnica
