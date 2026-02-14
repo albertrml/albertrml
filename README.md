@@ -6,12 +6,6 @@ Atuo na interseção entre **engenharia de software e dados**, aplicando princí
 
 Minha abordagem é orientada a estrutura, escalabilidade e clareza técnica.
 
-<div>
-<a href="https://github.com/albertrml">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertrml&layout=compact&langs_count=12&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?albertrml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 ![Snake animation](https://github.com/albertrml/albertrml/blob/output/github-contribution-grid-snake.svg)
 
 ---
