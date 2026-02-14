@@ -6,11 +6,19 @@ Atuo na interseção entre **engenharia de software e dados**, aplicando princí
 
 Minha abordagem é orientada a estrutura, escalabilidade e clareza técnica.
 
+<div>
+<a href="https://github.com/albertrml">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertrml&layout=compact&langs_count=12&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?albertrml&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 # 🚀 Atuação Técnica
 
-## 📱 Android Engineering
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="22"/> Android Engineering
 
 Desenvolvimento nativo com foco em arquitetura escalável e código testável.
 
@@ -99,5 +107,8 @@ Aberto a oportunidades de nível júnior com alto potencial de crescimento técn
 
 ---
 
-📫 albertrml.dev@gmail.com  
-🔗 linkedin.com/in/albert-richard-73983723
+# Contatos:
+<div>
+  <a href = "mailto:albertrml.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="linkedin.com/in/albert-richard-73983723" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
