@@ -16,7 +16,7 @@ Minha abordagem é orientada a estrutura, escalabilidade e clareza técnica.
 
 ---
 
-# 🚀 Atuação Técnica
+# <img width="40" height="40" alt="Atuação Técnica" src="https://github.com/user-attachments/assets/77d95714-af66-4446-9604-ae0c5f2defca"/> Atuação Técnica
 
 ## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="22"/> Android Engineering
 
@@ -67,7 +67,7 @@ Aplico pensamento de engenharia na construção de pipelines e modelos analític
 
 ---
 
-# 🧠 Mentalidade de Engenharia
+# <img width="35" height="35" alt="Mentalidade de Engenharia" src="https://github.com/user-attachments/assets/75ddf4c5-68d8-4d71-bae5-203bbb008a52" /> Mentalidade de Engenharia
 
 Minha formação permite integrar:
 
